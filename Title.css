@@ -1,0 +1,31 @@
+.row {
+	visibility: hidden;
+}
+.row111 {
+	visibility: visible;
+}
+
+#title0 {
+	text-align: center;
+	max-width: fit-content;
+}
+
+#title1 {
+	text-align: center;
+}
+
+#title2 {
+	text-align: center;
+}
+
+#title3 {
+	text-align: center;
+}
+
+#title4 {
+	text-align: center;
+}
+
+#title5 {
+	text-align: center;
+}
